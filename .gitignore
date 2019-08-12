@@ -1,0 +1,7 @@
+node_modules
+.vscode-test/
+*.vsix
+.testinfo
+filemapper/node_modules
+filemapper/.cache
+filemapper/dist
